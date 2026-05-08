@@ -1,0 +1,5 @@
+/home/gabriel/code/xlog/build/CMakeFiles/xlog_lib.dir
+/home/gabriel/code/xlog/build/CMakeFiles/xlog_tests.dir
+/home/gabriel/code/xlog/build/CMakeFiles/xlog_bench.dir
+/home/gabriel/code/xlog/build/CMakeFiles/edit_cache.dir
+/home/gabriel/code/xlog/build/CMakeFiles/rebuild_cache.dir

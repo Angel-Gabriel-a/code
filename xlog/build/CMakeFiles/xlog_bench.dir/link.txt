@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/xlog_bench.dir/benchmarks/bench_logger.cpp.o -o xlog_bench  libxlog_lib.a 

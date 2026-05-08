@@ -1,0 +1,2 @@
+/usr/bin/ar qc libxlog_lib.a CMakeFiles/xlog_lib.dir/src/async_worker.cpp.o CMakeFiles/xlog_lib.dir/src/file_sink.cpp.o CMakeFiles/xlog_lib.dir/src/formatter.cpp.o CMakeFiles/xlog_lib.dir/src/logger.cpp.o
+/usr/bin/ranlib libxlog_lib.a

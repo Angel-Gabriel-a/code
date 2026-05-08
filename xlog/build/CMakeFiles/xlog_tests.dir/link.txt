@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/xlog_tests.dir/tests/test_file_sink.cpp.o CMakeFiles/xlog_tests.dir/tests/test_logger.cpp.o CMakeFiles/xlog_tests.dir/tests/test_mpsc_queue.cpp.o CMakeFiles/xlog_tests.dir/tests/test_shutdown_integrity.cpp.o -o xlog_tests  libxlog_lib.a 
